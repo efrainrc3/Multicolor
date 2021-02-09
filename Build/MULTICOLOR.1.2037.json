@@ -1,0 +1,16 @@
+{
+"companyName": "CR3ATOR",
+"productName": "Multicolor",
+"productVersion": "1.2037",
+"dataUrl": "MULTICOLOR.1.2037.data.unityweb",
+"wasmCodeUrl": "MULTICOLOR.1.2037.wasm.code.unityweb",
+"wasmFrameworkUrl": "MULTICOLOR.1.2037.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#6C696A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
